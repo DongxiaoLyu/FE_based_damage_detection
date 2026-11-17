@@ -1,0 +1,4 @@
+# Raw measured data is never committed.
+data/HBTA/
+data/Z24/
+data/PMC/
